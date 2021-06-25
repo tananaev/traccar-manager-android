@@ -1,0 +1,1 @@
+ein GPS-Tracker, der auf Deinen eigenen Server protolliert
